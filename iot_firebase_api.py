@@ -10,4 +10,4 @@ print(result)
 # })
 
 fdb.patch('/product/-Oe6MqbS2lFp5KD07uqE', 
-          {'id': 1, 'name': 'water', 'number': 5, 'table_id': 2})
+          {'id': 1, 'name': 'water', 'number': 50, 'table_id': 2})
